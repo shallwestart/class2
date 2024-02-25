@@ -1,0 +1,26 @@
+body {
+    padding:0;
+    margin:0;
+}
+
+h1 {
+    font-size: 31px;
+    color: #a1f542;
+    position: relative;
+    left: 100px;
+    top: 200px;
+}
+
+h2 {
+    color:white;
+    background-color: black;
+}
+
+.border-red-family {
+    background-color: #a1f542;
+    border: 1px solid red;
+}
+
+#main-div {
+    background-color: pink;
+}
