@@ -48,7 +48,7 @@
 
 #word{
     position:absolute;
-    top:56.3;
+    top:56.3%;
     left: 8.8%;
     width: 38px;
     height: 243px;
@@ -58,8 +58,8 @@
 
 #topic{
     position:absolute;
-    top:218px;
-    left:816px;
+    top:27.6%;
+    left:49.4%;
     right:176;
     width:659px;
     height: 174px;
