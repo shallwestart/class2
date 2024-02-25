@@ -11,19 +11,19 @@
 
 #top-bar #News {
     position:absolute;
-    right: 64%;
+    left: 33.3%;
 }
 #top-bar #About {
         position:absolute;
-        right: 51%;
+        left: 47%;
 }
 #top-bar #Team {
     position:absolute;
-    right: 38%;
+    left: 60%;
 }
 #top-bar #Sign-up  {
     position:absolute;
-    right: 25%;
+    left: 75%;
 }
 
 #logo{
@@ -38,7 +38,7 @@
 
 #picture{
     position:absolute;
-    top: 13.2%;
+    top: 13.3%;
     left: 14.9%;
     width: 609px;
     height: 710px;
@@ -69,8 +69,8 @@
 
 #paragraph{
     position:absolute;
-    top:437px;
-    left:873px;
+    top:56.3%;
+    left:52.58%;
     width:602px;
     height:122px;
     font-size: 32px;
@@ -79,8 +79,8 @@
 
 #buttom{
     position:absolute;
-    top:675px;
-    left:1217px;
+    top:81%;
+    left:77.3%;
     width:253px;
     height:78px;
     font-size: 32px;
