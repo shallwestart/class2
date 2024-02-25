@@ -1,0 +1,88 @@
+.border {
+    border: 2px solid salmon;
+}
+
+#top-bar {
+  position: relative;
+  font-size: 32px;
+  height: 40px;
+  top: 32px;
+}
+
+#top-bar #News {
+    position:absolute;
+    right: 64%;
+}
+#top-bar #About {
+        position:absolute;
+        right: 51%;
+}
+#top-bar #Team {
+    position:absolute;
+    right: 38%;
+}
+#top-bar #Sign-up  {
+    position:absolute;
+    right: 25%;
+}
+
+#logo{
+    position:absolute;
+    top: 6.3%;
+    left: 8.84%;
+    width: 200px;
+    height: 116px;
+    font-size: 32px;
+    text-align: center;
+}
+
+#picture{
+    position:absolute;
+    top: 13.2%;
+    left: 14.9%;
+    width: 609px;
+    height: 710px;
+    font-size: 32px;
+    text-align: center;
+}
+
+#word{
+    position:absolute;
+    top:56.3;
+    left: 8.8%;
+    width: 38px;
+    height: 243px;
+    font-size: 10px;
+    text-align: center;
+}
+
+#topic{
+    position:absolute;
+    top:218px;
+    left:816px;
+    right:176;
+    width:659px;
+    height: 174px;
+    font-size: 32px;
+    text-align: center;
+}
+
+#paragraph{
+    position:absolute;
+    top:437px;
+    left:873px;
+    width:602px;
+    height:122px;
+    font-size: 32px;
+    text-align: center;
+}
+
+#buttom{
+    position:absolute;
+    top:675px;
+    left:1217px;
+    width:253px;
+    height:78px;
+    font-size: 32px;
+    text-align: center;
+}
